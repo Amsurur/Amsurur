@@ -1,6 +1,7 @@
 Frontend Developer
 -------------------------
 * ✉️  You can contact me at [abdulloevmuhammadsurur@gmail.com](gmailto:abdulloevmuhammadsurur@gmail.com)
+<br/>
 <a href="https://www.github.com/Amsurur" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Amsurur?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
 <p align="left">
