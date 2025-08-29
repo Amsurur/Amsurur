@@ -22,6 +22,9 @@ src="https://img.shields.io/github/followers/Amsurur?logo=github&style=for-the-b
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" />
 </a>
+<a href="https://expo.dev/" target="_blank" rel="noreferrer">
+  <img src="https://images.icon-icons.com/2389/PNG/512/expo_logo_icon_145293.png" width="36" height="36" alt="Next.js" />
+</a>
 </p>
 ### Socials
 <p align="left"> <a href="https://www.github.com/Amsurur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/muhammadsurur__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
